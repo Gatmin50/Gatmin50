@@ -2,7 +2,7 @@
 
 ### 🚀 Telematics Engineering Student | Python Developer | Cybersecurity Enthusiast
 
-I am a first-year **Telematics Engineering** student at **UIB** (University of the Balearic Islands). I focus on building secure, efficient software and automating complex tasks. I am passionate about backend development and exploring the intersection between programming and network security.
+I am a second-year **Telematics Engineering** student at **UIB** (University of the Balearic Islands). I focus on building secure, efficient software and automating complex tasks. I am passionate about backend development and exploring the intersection between programming and network security.
 
 ---
 
