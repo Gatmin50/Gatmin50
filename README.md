@@ -2,13 +2,13 @@
 
 ### 🚀 Telematics Engineering Student | Python Developer | Cybersecurity Enthusiast
 
-I am a second-year **Telematics Engineering** student at **UIB** (University of the Balearic Islands). I focus on building secure, efficient software and automating complex tasks. I am passionate about backend development and exploring the intersection between programming and network security.
+I am a third-year **Telematics Engineering** student at **UIB** (University of the Balearic Islands). I focus on building secure, efficient software and automating complex tasks. I am passionate about backend development, hardware auditing, and exploring the intersection between programming and network security.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### Backend & Systems
+#### Backend, Systems & Security
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&colorA=2F2F2F)
 ![Rust](https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=rust&logoColor=white&colorA=2F2F2F)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&colorA=2F2F2F)
@@ -21,11 +21,17 @@ I am a second-year **Telematics Engineering** student at **UIB** (University of 
 
 ---
 
+### 💻 Featured Experience & Projects
+* **Hardware Auditing:** Developing Python scripts for procedural dictionary attacks to audit and crack encrypted NFC/RFID tags (e.g., Mifare Classic).
+* **Physical Security Vectors:** Hands-on experience reading, analyzing, and writing data dumps to blank tags using tools like **Flipper Zero**.
+
+---
+
 ### 🔭 Currently Exploring
-* 🛡️ Deepening my knowledge in **Cybersecurity** and **Ethical Hacking**.
+* 🛡️ Deepening my knowledge in **Cybersecurity**, **Ethical Hacking**, and low-level protocol analysis.
 * 🌐 Building dynamic web applications using **Flask** and **REST APIs**.
 * ⚡ Learning **Rust** for high-performance networking tools.
-* 🤖 Interested in **IoT** security and hardware auditing.
+* 🤖 Advanced **IoT** security and hardware architecture.
 
 ---
 
