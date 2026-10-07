@@ -14,6 +14,7 @@ I am a third-year **Telematics Engineering** student at **UIB** (University of t
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&colorA=2F2F2F)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&colorA=2F2F2F)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&colorA=2F2F2F)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white&colorA=2F2F2F)
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&colorA=2F2F2F)
@@ -22,8 +23,9 @@ I am a third-year **Telematics Engineering** student at **UIB** (University of t
 ---
 
 ### 💻 Featured Experience & Projects
-* **Hardware Auditing:** Developing Python scripts for procedural dictionary attacks to audit and crack encrypted NFC/RFID tags (e.g., Mifare Classic).
-* **Physical Security Vectors:** Hands-on experience reading, analyzing, and writing data dumps to blank tags using tools like **Flipper Zero**.
+* **Automated NFC Auditing System:** Building a comprehensive hardware and software ecosystem to audit, crack, and back up encrypted NFC/RFID tags (e.g., Mifare Classic).
+* **Hardware Integration:** Utilizing a **Flipper Zero** for physical data reading/writing, paired with a **Raspberry Pi** acting as an autonomous 24/7 processing node to execute procedural Python dictionary attacks via serial communication.
+* **Server Architecture:** Developing a centralized backend server with a local database to store tag dumps and deciphered keys, managed through a custom web control panel (Flask) for remote deployment and tag cloning.
 
 ---
 
